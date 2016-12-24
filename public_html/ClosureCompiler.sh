@@ -1,0 +1,1 @@
+java -jar ~/closure-compiler/compiler.jar --js holiday.js --create_source_map pagenavi.js.map --js_output_file holiday.min.js
